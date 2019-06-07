@@ -1,7 +1,7 @@
 {
-  "name": "Miniblog.Core",
-  "short_name": "Miniblog.Core",
-  "description": "A short description of the blog.",
+  "name": "Thought Replica",
+  "short_name": "thoughtreplica.com",
+  "description": "",
   "icons": [
     {
       "src": "/img/icon192x192.png",
